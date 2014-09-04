@@ -7,5 +7,7 @@ Author
 ======
 
 Cañizares-Corrales, Daniel
+
 Universidad Católica de Oriente
+
 dacanizares@outlook.com
