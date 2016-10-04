@@ -1,13 +1,6 @@
-MarkovLocalization
-==================
+Markov Localization
+===================
 
-Unity 3D project for discrete localization on robotics.
+By Daniel Cañizares Corrales
 
-Author
-======
-
-Cañizares-Corrales, Daniel
-
-Universidad Católica de Oriente
-
-dacanizares@outlook.com
+A Unity 3D project that shows an example of discrete localization for robotics using a technique known as Markov Localization.
